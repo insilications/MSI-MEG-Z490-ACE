@@ -4,7 +4,8 @@
 
 - 7C71v1D: E7C71IMS.1D0. Released on 2022-06-24. Original: [MSI website](https://www.msi.com/Motherboard/MEG-Z490-ACE/support#bios)
   - Alternative download link: [Download](https://drive.google.com/file/d/1oSdViBX7fqi9u1SkWdkgrfOaaG0fqgp0/view?usp=sharing)
-  - Microcodes are not touched
+  - Should be updated with the bios M-Flash.
+  - Microcodes are not touched.
   - All hidden menus and options unlocked.
   - To access, enter the "OC Profiles" (top right option) and press "ESC" one time. The complete list will be shown:
 
